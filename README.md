@@ -20,7 +20,7 @@ for software development version control using Git and yet another great platfor
     For example, run this command inside your terminal:
 
     ```bash
-    git clone https://github.com/<your-github-username>/start-here-guidelines.git
+    git clone https://github.com/<your-github-username>/hello-world.git
     ```
 
     **Replace \<your-github-username\>!**
@@ -31,7 +31,7 @@ for software development version control using Git and yet another great platfor
 4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/unclebay143/Amigo-Dev-Members.git
+    git remote add upstream https://github.com/Aysuhgarg/hello-world.git
     git pull upstream master
     ```
     
