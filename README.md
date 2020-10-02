@@ -1,4 +1,4 @@
-# hello-Git
+# Hello-Git
 Just another  repository
 
 
